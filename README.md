@@ -1,3 +1,3 @@
 # dota_core_simple
-Dota game 
+Dota game simplify for command version
 
